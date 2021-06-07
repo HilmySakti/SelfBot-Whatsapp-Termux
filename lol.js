@@ -1,10 +1,4 @@
-//Credit By Akira
-//LolHuman
-//Riu
-//Roy
-//Jangan di Hapus Credit Goblok
 
-//Wa Connection
 const {
     WAConnection,
     MessageType,
@@ -31,15 +25,15 @@ const { mimeTypes } = require('file-type')
 const { ind } = require('./language')
 const vcard = 'BEGIN:VCARD\n'  // Jan diubah,Ntar Error
             + 'VERSION:3.0\n'  // Jan diubah,Ntar Error
-            + 'FN:Akira\n'  // Ganti jadi namamu
-            + 'ORG: Pengembang SELFBOT LOLHUMAN;\n'  // Ganti jadi namamu/Botmu
-            + 'TEL;type=CELL;type=VOICE;waid=6282158549899:+6282158549899\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
+            + 'FN:HilmySakti\n'  // Ganti jadi namamu
+            + 'ORG: Kang Coding;\n'  // Ganti jadi namamu/Botmu
+            + 'TEL;type=CELL;type=VOICE;waid=6281217779427:+6281217779427\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
             + 'END:VCARD' // Jan diubah,Ntar Error
 //Setingan
-apikey = 'AkiraYT' 
-prefix = 'x' 
-owner = '6282158549899' 
-cr = 'Selfbot Lol-Human By Akira'
+apikey = 'HilmSaktiGantenk' 
+prefix = '#' 
+owner = '6281217779427' 
+cr = '*Sagiri Chan* By *HilmySakti*'
 //Premium
 const premium = JSON.parse(fs.readFileSync('./database/user/premium.json'))
 
@@ -71,10 +65,10 @@ async function starts() {
     lolteam.logger.level = 'warn'
     lolteam.on('qr', () => {
         const time_connecting = moment.tz('Asia/Jakarta').format('HH:mm:ss')
-        console.log(color('[','aqua'),color('AkiRa','white'),color(']','aqua'),color('SQAN QR CODE DI WHATSAPP WEB!!','aqua'),color('You','white'),color('Tube','red'),color('AkiRa','yellow'))
+        console.log(color('[','aqua'),color('SAGIRI','white'),color(']','aqua'),color('SQAN QR CODE DI WHATSAPP WEB!!','aqua'),color('You','white'),color('Tube','red'),color('Hilmy','yellow'),color('Gaming','red'),color('87','white'))
 })
-    fs.existsSync('./lolteam.json') && lolteam.loadAuthInfo('./lolteam.json')
-    if (apikey == "") {
+    fs.existsSync('./SagiriChan.json') && lolteam.loadAuthInfo('./SagiriChan.json')
+    if (apikey == "NtahLahKawand") {
         ini_time = moment.tz('Asia/Jakarta').format('HH:mm:ss')
         console.log(color(ini_time, "white"), color("[  ERROR  ]", "aqua"), color("Apikey is empty, please check at lol.js", 'red'))
         exit()
@@ -100,7 +94,7 @@ async function starts() {
     })
     lolteam.on('open', () => {
         const time_connect = moment.tz('Asia/Jakarta').format('HH:mm:ss')
-        console.log(color(time_connect, "white"), color("[  STATUS  ]", "aqua"), "Subscribe My Channel AkiRa")
+        console.log(color(time_connect, "white"), color("[  STATUS  ]", "aqua"), "Subscribe My Channel Hilmy Gaming 87")
     })
     await lolteam.connect({ timeoutMs: 30 * 1000 })
     fs.writeFileSync('./lolteam.json', JSON.stringify(lolteam.base64EncodedAuthInfo(), null, '\t'))
