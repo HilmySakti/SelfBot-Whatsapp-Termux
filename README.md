@@ -2,17 +2,17 @@
 <img src="https://i.ibb.co/cvWRRV8/20210402-151201.jpg"/>
 </p>
 <p align="center">
-<a href="#"><img title="selfbot-lolhuman" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Tod Gatod ngentod" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/AkiRaID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AKIRA-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/HilmySakti"><img title="Author" src="https://img.shields.io/badge/AUTHOR-HilmySakti-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/AkiRaID/followers"><img title="Followers" src="https://img.shields.io/github/followers/AkiRaID?color=blue&style=flat-square"></a>
-<a href="https://github.com/AkiRaID/selfbot-lolhuman/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AkiRaID/selfbot-lolhuman?color=red&style=flat-square"></a>
-<a href="https://github.com/AkiRaID/selfbot-lolhuman/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AkiRaID/selfbot-lolhuman?color=red&style=flat-square"></a>
-<a href="https://github.com/AkiRaID/selfbot-lolhuman/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AkiRaID/selfbot-lolhuman?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAkiRaID%2Fselfbot-lolhuman&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/HilmySakti/Followers"><img title="Followers" src="https://img.shields.io/github/followers/HilmySakti?color=blue&style=flat-square"></a>
+<a href="https://github.com/HilmySakti/SelfBot-Whatsapp-Termux/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HilmySakti/SelfBot-Whatsapp-Termux?color=red&style=flat-square"></a>
+<a href="https://github.com/HilmySakti/SelfBot-Whatsapp-Termux/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HilmySakti/SelfBot-Whatsapp-Termux?color=red&style=flat-square"></a>
+<a href="https://github.com/HilmySakti/SelfBot-Whatsapp-Termux/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HilmySakti/SelfBot-Whatsapp-Termux?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHilmySakti%2Fselfbot-Whatsapp-Termux&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 <details>
  <summary>😔 Help me!</summary>
  
- [Saweria](https://saweria.co/akirayt)
+ [Trakteer](https://trakteer.id/HilmyGaming87)
  
 </details>
 
@@ -34,9 +34,9 @@
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/akirashopreal" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://m.youtube.com/channel/UCvVd-kAsrJUjg0bwKqxUPeg" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
-<a href="https://wa.me/6282158549899" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://www.instagram.com/HilmyShop.Official" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://youtube.com/HILMYGAMING87" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://wa.me/6281217779427" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 </p>
 
 
@@ -58,8 +58,8 @@ This project require NodeJS v12
 Clone this project
 
 ```bash
-$ git clone https://github.com/AkiRaID/selfbot-lolhuman.git
-$ cd selfbot-lolhuman
+$ git clone https://github.com/HilmySakti/SelfBot-Whatsapp-Termux.git
+$ cd SelfBot-Whatsapp-Termux
 ```
 
 Install the dependencies:
